@@ -31,8 +31,17 @@
 
 ---
 
-### 🧠 AI Tools I Love Exploring
-<p align="center"> <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Whisper%20AI-%231D3557.svg?style=for-the-badge&logo=whisper&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-%236A5ACD.svg?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Generative%20AI-%23FF69B4.svg?style=for-the-badge&logoColor=white"/> </p>
+### 🧠 AI Systems I’m Building & Breaking
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LLMs-%236A5ACD.svg?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAGs-%23292929.svg?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-%23FF69B4.svg?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-%230092CC.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%230076D6.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p> 
+<p align="center"> Exploring how AI can think, reason, and create — not just predict.
+I love building systems that learn, understand, and adapt. 🤖 </p>
 
 ---
 
