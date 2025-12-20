@@ -54,7 +54,19 @@ I love building systems that learn, understand, and adapt. 🤖 </p>
 
 ---
 
-### ☕ A Bit About Me
+### 💥 Errors I Secretly Love
+
+- **400 / 422** ⚠️ — bad inputs revealing unclear assumptions  
+- **404** 🧩 — missing data paths and forgotten edge cases  
+- **429** 🚦 — systems telling me to respect their limits  
+- **500** 🛠️ — model, pipeline, or integration failures that teach the most   
+
+Because intelligent systems don’t become reliable by chance —
+they earn it through well-understood failures.
+
+---
+
+### ☕ How I code (and Think)
 
 - I write code the way I make coffee — strong and reliable  
 - My debugging ritual includes a long walk and lo-fi beats 🎧  
