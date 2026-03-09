@@ -26,7 +26,23 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Distributed Systems & Infrastructure I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apache%20kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+<p align="center">
+Because sometimes systems need to talk to each other more than humans do.  
 </p>
 
 ---
@@ -66,12 +82,12 @@ they earn it through well-understood failures.
 
 ---
 
-### ☕ How I code (and Think)
+### ☕ My Engineering Philosophy
 
-- I write code the way I make coffee — strong and reliable  
-- My debugging ritual includes a long walk and lo-fi beats 🎧  
-- I name variables like I’m naming characters in a novel  
-- Sometimes I talk to my code, and sometimes it talks back 😅  
+- Systems should be **simple at the surface and powerful underneath**
+- Code should read like **documentation**
+- Debugging is just **learning how the system actually behaves**
+- Great engineering happens where **architecture, data, and intuition meet**
 
 ---
 
